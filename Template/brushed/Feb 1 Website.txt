@@ -1,0 +1,1564 @@
+﻿<!DOCTYPE html>
+
+
+	<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+
+
+	<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+
+
+	<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+
+
+	<!--[if (IE 9)]><html class="no-js ie9" lang="en"><![endif]-->
+
+
+	<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+
+
+
+<head>
+
+
+
+	<!-- Meta Tags -->
+
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+		<title>Team Fusion #364</title>   
+
+
+		<meta name="description" content="Insert Your Site Description" /> 
+
+
+
+
+
+
+	<!-- Mobile Specifics -->
+
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+		<meta name="HandheldFriendly" content="true"/>
+
+
+		<meta name="MobileOptimized" content="320"/>   
+
+
+
+
+
+
+
+	<!-- Mobile Internet Explorer ClearType Technology -->
+
+
+		<!--[if IEMobile]><meta http-equiv="cleartype" content="on"><![endif]-->
+
+
+
+
+
+
+	<!-- Bootstrap -->
+
+
+		<link href="_include/css/bootstrap.min.css" rel="stylesheet">
+
+        
+
+
+
+
+
+	
+	<!-- Main Style -->
+
+
+		<link href="_include/css/main.css" rel="stylesheet">
+
+
+
+
+
+
+
+	<!-- Supersized -->
+
+
+		<link href="_include/css/supersized.css" rel="stylesheet">
+
+
+		<link href="_include/css/supersized.shutter.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+	<!-- FancyBox -->
+
+
+		<link href="_include/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+	<!-- Font Icons -->
+
+
+		<link href="_include/css/fonts.css" rel="stylesheet">
+
+ 
+
+
+
+
+
+
+	<!-- Shortcodes -->
+
+
+		<link href="_include/css/shortcodes.css" rel="stylesheet">
+
+    
+
+
+	<!-- Responsive -->
+
+
+		<link href="_include/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+
+		<link href="_include/css/responsive.css" rel="stylesheet">
+
+ 
+
+
+	<!-- Supersized -->
+
+
+		<link href="_include/css/supersized.css" rel="stylesheet">
+
+
+		<link href="_include/css/supersized.shutter.css" rel="stylesheet">
+
+
+        
+
+	<!-- Google Font -->
+
+
+		<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
+
+
+       
+
+	<!-- Fav Icon -->
+
+
+		<link rel="shortcut icon" href="#">
+
+
+
+		<link rel="apple-touch-icon" href="#">
+
+
+		<link rel="apple-touch-icon" sizes="114x114" href="#">
+
+
+		<link rel="apple-touch-icon" sizes="72x72" href="#">
+
+
+		<link rel="apple-touch-icon" sizes="144x144" href="#">
+
+
+
+
+
+
+
+
+	<!-- Modernizr -->
+
+
+		<script src="_include/js/modernizr.js"></script>
+
+
+
+
+
+
+
+
+	<!-- Analytics -->
+
+
+		<script type="text/javascript">
+
+
+
+			var _gaq = _gaq || [];
+
+
+			_gaq.push(['_setAccount', 'Insert Your Code']);
+
+
+			_gaq.push(['_trackPageview']);
+
+
+
+			(function() {
+
+
+			var ga = document.createElement('script'); ga.type = 'text/javascript';
+
+			ga.async = true;
+
+
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+
+			var s = document.getElementsByTagName('script')[0]; 
+
+			s.parentNode.insertBefore(ga, s);
+
+
+			})();
+
+
+
+
+		</script>
+
+
+	<!-- End Analytics -->
+
+  
+
+
+
+
+
+
+</head>
+
+
+
+
+	<body>
+                
+
+
+	
+		<!-- This section is for Splash Screen -->
+
+
+		<div class="ole">
+
+
+		<section id="jSplash">
+
+		<div id="circle">
+
+		</div>
+
+
+		</section>
+
+
+		</div>
+
+
+	<!-- End of Splash Screen -->
+
+
+
+
+
+
+	<!-- Homepage Slider -->
+
+
+		<div id="home-slider"> 
+
+		<div class="overlay"></div>
+
+
+
+		<div class="slider-text">
+
+			<div class="slidecaption" style="font: Bold; font-size: 120px; color: #ff6900">Team Fusion #364</div>
+		
+
+
+		</div>
+
+		<div class="control-nav">
+
+
+			<a id="prevslide" class="load-item"><i class="font-icon-arrow-simple-left"></i></a>
+
+
+			<a id="nextslide" class="load-item"><i class="font-icon-arrow-simple-right"></i></a>
+
+
+	<ul id="slide-list">
+		<li class="slide-link-0">
+			<a> </a>
+		</li>
+			<li class="slide-link-1">
+			<img src="http://i.huffpost.com/gen/1492252/original.jpg" />
+				<a></a>
+				</li>
+				<li class="slide-link-2 current-slide">
+					<a><img src="http://www.wired.com/wp-content/uploads/2015/09/google-logo.jpg" /></a>
+				</li>
+				<li class="slide-link-3">
+					<a></a>
+				</li>
+			</ul>
+
+
+			<a id="nextsection" href="#work"><i class="font-icon-arrow-simple-down"></i></a>
+
+
+		</div>
+
+
+		</div>
+
+
+	<!-- End Homepage Slider -->
+
+
+
+
+
+
+	<!-- Header -->
+
+
+	<header>
+
+
+		<div class="sticky-nav">
+
+
+			<a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
+
+
+			<div id="logo">
+
+
+				<a id="goUp" href="#home-slider" title="Brushed | Responsive One Page Template">Team Fusion #364</a>
+
+
+			</div>
+
+
+			<nav id="menu">
+
+
+				<ul id="menu-nav">
+
+
+					<li class="current"><a href="#home-slider">Home</a></li>
+
+
+					<li><a href="#work">Current Projects</a></li>
+
+
+					<li><a href="#about">Info</a></li>
+
+					<li><a href="#contact">Contact</a></li>
+
+
+					<li><a href="shortcodes.html" class="external">Shortcodes</a></li>
+
+
+				</ul>
+
+
+			</nav>
+
+
+		</div>
+
+
+	</header>
+
+
+	<!-- End Header -->
+
+
+
+
+
+	<!-- Our Work Section -->
+
+
+	<div id="work" class="page">
+
+
+		<div class="container">
+
+
+		<!-- Title Page -->
+
+
+			<div class="row">
+
+
+				<div class="span12">
+
+
+                			<div class="title-page">
+
+
+						<h2 class="title">Current Projects</h2>
+
+
+						<h3 class="title-description">Look below to stay up to date on Team Fusion</h3>
+
+
+					</div>
+
+
+            			</div>
+
+
+        		</div>
+
+   		<!-- End Title Page -->
+     
+
+   
+   		<!-- Portfolio Projects -->
+
+
+			<div class="row">
+
+
+				<div class="span3">
+
+                           
+
+
+					<!-- Filter -->
+
+
+					<nav id="options" class="work-nav">
+
+
+						<ul id="filters" class="option-set" data-option-key="filter">
+
+
+							<li class="type-work">Team</li>
+
+
+							<li><a href="#filter" data-option-value="*" class="selected">All Teams</a></li>
+
+
+							<li><a href="#filter" data-option-value=".design">Team Fusion FRC#364</a></li>
+
+
+							<li><a href="#filter" data-option-value=".photography">Lemelson-MIT InvenTeam</a></li>
+
+
+							<li><a href="#filter" data-option-value=".video">FTC</a></li>
+
+
+						</ul>
+
+
+					</nav>
+
+
+					<!-- End Filter -->
+                                 
+
+
+
+				</div>
+
+
+				<div class="span9">
+
+
+					<div class="row">
+
+
+						<section id="projects">
+
+
+							<ul id="thumbs">
+
+                        
+				      
+
+	
+								<!-- Item Project and Filter Name -->
+
+
+									<li class="item-thumbs span3 design">
+
+
+                                                                   
+
+
+
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+
+
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Subteams" href="_include/img/work/full/image-01-full.jpg" class="" src="http://www.firstfusion364.com/wp-content/uploads/2015/02/Alexander-233x300.jpg" />
+
+
+										<span class="overlay-img" style=text-align:center; vertical-align:center; ><br><br><br><br><br><br><br><br>Fusion Subteams</span>
+
+
+										<span src="" /></span>
+
+									</a>
+                                                                
+
+
+									<!-- Thumb Image and Description -->
+
+
+									<img src="http://www.firstfusion364.com/wp-content/uploads/2015/02/Alexander-233x300.jpg" alt= >
+
+
+									</li>
+
+								<!-- End Item Project -->
+   
+                
+                                                      
+
+
+
+								<!-- Item Project and Filter Name -->
+
+            
+									<li class="item-thumbs span3 design">
+ 
+                           	
+								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+ 
+                           	
+            								<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Office" href="_include/img/work/full/image-02-full.jpg">
+
+
+										<span class="overlay-img"></span>
+
+
+               									<span class="overlay-img-thumb font-icon-plus"></span>
+  
+                              
+            								</a>
+                
+                
+									<!-- Thumb Image and Description -->
+ 
+                               
+         								<img src="_include/img/work/thumbs/image-02.jpg" alt=>
+ 
+                           
+      									</li>
+           
+             	
+   								<!-- End Item Project -->
+                            
+							
+                                                           
+
+
+
+   								<!-- Item Project and Filter Name -->
+   
+            
+      									<li class="item-thumbs span3 photography">
+ 
+
+                                                   
+
+
+                           	
+								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+ 
+                           	
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Mountains" href="_include/img/work/full/image-03-full.jpg">
+ 
+       
+										<span class="overlay-img"></span>
+         
+                           
+										<span class="overlay-img-thumb font-icon-plus"></span>
+    
+                            
+									</a>
+
+
+
+
+
+                                
+								<!-- Thumb Image and Description -->
+    
+                            
+									<img src="_include/img/work/thumbs/image-03.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+  
+                          
+									</li>
+                        	
+
+								<!-- End Item Project -->
+ 
+
+                                                     
+
+
+								
+								<!-- Item Project and Filter Name -->
+     
+
+                   	
+									<li class="item-thumbs span3 video">
+     
+
+
+									<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
+   
+                         	
+									<a class="hover-wrap fancybox-media" data-fancybox-group="video" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
+   
+                        
+										<span class="overlay-img"></span>
+      
+                              
+										<span class="overlay-img-thumb font-icon-plus"></span>
+    
+                            
+									</a>
+                    
+            
+									<!-- Thumb Image and Description -->
+ 
+                               
+									<img src="_include/img/work/thumbs/image-08.jpg" alt="Video">
+   
+                         
+									</li>
+                       
+
+
+ 								<!-- End Item Project -->
+ 
+
+                                                  
+
+
+   
+                        
+					<!-- Item Project and Filter Name -->
+  
+      
+                							<li class="item-thumbs span3 photography">
+ 
+                           
+                                                             
+
+
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+   
+
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Sea" href="_include/img/work/full/image-04-full.jpg">
+ 
+                               	
+										<span class="overlay-img"></span>
+            
+     
+										<span class="overlay-img-thumb font-icon-plus"></span>
+
+                                
+									</a>
+                                
+
+                                                      
+
+
+									
+									<!-- Thumb Image and Description -->
+
+                                
+										<img src="_include/img/work/thumbs/image-04.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+   
+                         
+									</li>
+           
+             	
+								<!-- End Item Project -->
+
+                            
+					
+
+	
+								<!-- Item Project and Filter Name -->
+ 
+                       	
+									<li class="item-thumbs span3 photography">
+
+                            	
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+ 
+                           	
+										<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Clouds" href="_include/img/work/full/image-05-full.jpg">
+ 
+                               	
+											<span class="overlay-img"></span>
+       
+                             
+											<span class="overlay-img-thumb font-icon-plus"></span>
+ 
+                               
+										</a>
+                                
+                                                                 
+
+
+									<!-- Thumb Image and Description -->
+ 
+                               
+										<img src="_include/img/work/thumbs/image-05.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+ 
+                           
+									</li>
+    
+
+                    						<!-- End Item Project -->
+    
+
+                                            
+
+                      
+							
+								<!-- Item Project and Filter Name -->
+                        	
+
+									<li class="item-thumbs span3 video">
+                            	
+
+									<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
+  
+                          	
+										<a class="hover-wrap fancybox-media" data-fancybox-group="video" title="Video Content From Vimeo" href="http://vimeo.com/50834315">
+  
+                              	
+											<span class="overlay-img"></span>
+   
+                                 
+											<span class="overlay-img-thumb font-icon-plus"></span>
+  
+   
+										</a>
+                                
+                                                                
+
+
+									<!-- Thumb Image and Description -->
+ 
+
+ 										<img src="_include/img/work/thumbs/image-09.jpg" alt="Video">
+
+
+									</li>
+ 
+                       	
+								<!-- End Item Project -->
+
+
+                            
+					
+
+		
+								<!-- Item Project and Filter Name -->
+  
+                      	
+									<li class="item-thumbs span3 design">
+ 
+                           	
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+ 
+                           	
+										<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Dark" href="_include/img/work/full/image-06-full.jpg">
+ 
+                               	
+											<span class="overlay-img"></span>
+       
+
+											<span class="overlay-img-thumb font-icon-plus"></span>
+ 
+                               
+										</a>
+            
+                                                                     
+
+
+									<!-- Thumb Image and Description -->
+ 
+                               
+										<img src="_include/img/work/thumbs/image-06.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+       
+
+									</li>
+
+                        	
+								<!-- End Item Project -->
+
+                           
+													
+
+	
+					
+								<!-- Item Project and Filter Name -->
+
+             
+									<li class="item-thumbs span3 design">
+
+                            	
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+
+                            	
+										<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Beach" href="_include/img/work/full/image-07-full.jpg">
+
+                                	
+											<span class="overlay-img"></span>
+
+                                    
+											<span class="overlay-img-thumb font-icon-plus"></span>
+
+                                
+										</a>
+                                
+								
+
+
+									<!-- Thumb Image and Description -->
+ 
+
+										<img src="_include/img/work/thumbs/image-07.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+        
+
+									</li>
+
+                        	
+								<!-- End Item Project -->
+
+
+                        				
+
+
+
+							</ul>
+
+                    
+						</section>
+
+                    
+            	
+					</div>
+
+            
+				</div>
+
+        
+			</div>
+
+        
+		<!-- End Portfolio Projects -->
+
+
+
+    
+		</div>
+
+
+	</div>
+
+
+	<!-- End Our Work Section -->
+
+	<!-- About Section -->
+
+
+	<div id="about" class="page-alternate">
+
+
+		<div class="container">
+    
+
+			<!-- Title Page -->
+    
+
+			<div class="row">
+        
+
+				<div class="span12">
+            
+
+					<div class="title-page">
+                
+
+						<h2 class="title">Info</h2>
+                
+
+						<h3 class="title-description">Learn more about our Background</h3>
+            
+
+					</div>
+        
+
+				</div>
+    
+
+			</div>
+    
+
+			<!-- End Title Page -->
+    
+    
+
+			<!-- People -->
+    
+
+			<div class="row">
+    	
+        
+
+				<!-- Start Profile -->
+    	
+
+				<div class="span4 profile">
+        	
+
+					<div class="image-wrap">
+                
+
+						<div class="hover-wrap">
+                    
+
+							<span class="overlay-img"></span>
+                    
+
+							<span class="overlay-text-thumb">Team Fusion</span>
+                
+
+						</div>
+                
+
+						<img src= "http://www.firstfusion364.com/wp-content/uploads/2013/01/FRC_2-270x250.jpg"  alt="Fusion">
+          
+
+					</div>
+            
+
+					<h3 class="profile-name" style= text-align:center>About Mississippi's rising robotics team #364</h3>
+            
+
+						<p class="profile-description" >Fourteen years have brought about many challenges and breakthroughs for Mississippi’s premiere FIRST Robotics team. Team Fusion #364 remains active in the community to enrich all people- young and old, big and small -with technology, science and cutting-edge information. Knowing that one day the world will be dependent on today’s young people, the students and mentors of Team Fusion strive to change the world in which we live and work.
+
+Through community outreach, fundraisers, mentor programs and other events and demonstrations, Team Fusion reaches out to our community in an attempt to positively affect and mold the world. Since its conception, Team Fusion has concentrated on community involvement in an effort to help all people around us and to alter the world to make it a better, more successful place.
+
+Team Fusion and FIRST encompass a need for business-oriented skills, knowledge, commitment and determination.
+
+Operating Team Fusion, like all other FIRST teams, is rather expensive when all materials, travel expenses and extra events are factored into the budget. To meet these steep monetary needs, we require tremendous effort and commitment from the parent booster club, students, engineers and local businesses.
+
+Team Fusion realizes that in order to be successful, we must have sound business principles and teamwork in all endeavors.
+
+Team Fusion strives to be the best it can be in all challenges and undertakings. Our mission is to spread the idea of FIRST and to inspire other teams and individuals to excel in all aspects of science, technology and business.
+
+This initiative inspired us to assist and mentor FIRST teams in Ecuador and Israel over the 2004 and 2005 competitions.
+
+In 2008, the team assisted the “Kiwis,” a team from New Zealand starting a program. Team Fusion also helped create a team in Brazil, requiring two members to learn Portuguese. Joe Daschbach, expressing his appreciation for Team Fusion’s assistance said, “We have three rookie teams in New Orleans this year, and Team Fusion played a big part in making that happen!”
+
+Last year, Team Fusion helped start an FLL Team at Anniston Elementary (a local elementary school) as well as an FTC Team at Gulfport High School. In addition, we helped rookie team #4107 at West Harrison High School get on their feet by sharing our facilities, as well as sending our members to their school to help them whenever they need us.
+
+As a team, we work to overcome all obstacles, problems, adversity and hardships while still having fun! We are rewarded not only with prestigious awards, but with a sense of satisfaction for doing something great that can really make a difference. Few things provide these opportunities as well as FIRST Robotics. Team Fusion embodies all ideals of FIRST and tries to spread the FIRST fever to others. <a href="#"></a>.
+</p>
+            	
+            
+
+							<div class="social">
+            	
+
+								<ul class="social-icons">
+                	
+
+									<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>
+                    
+
+									<li><a href="#"><i class="font-icon-social-dribbble"></i></a></li>
+                    
+
+									<li><a href="#"><i class="font-icon-social-facebook"></i></a></li>
+                
+
+								</ul>
+            
+
+							</div>
+        
+
+				</div>
+        
+
+<!-- End Profile -->
+        
+        
+
+<!-- Start Profile -->
+    	
+
+<div class="span4 profile">
+        	
+
+<div class="image-wrap">
+                
+
+<div class="hover-wrap">
+                    
+
+<span class="overlay-img"></span>
+                    
+
+<span class="overlay-text-thumb">First Stronghold</span>
+                
+
+</div>
+                
+
+<img src= http://www.firstfusion364.com/wp-content/uploads/2014/03/first-stronghold.jpg  alt="Jane Helf">
+
+
+</div>
+            
+
+<h3 class="profile-name" style=text-align:center>Learn about the eco-friendly 2015 FRC game</h3>
+        
+
+<p class="profile-description">FIRST Stronghold is the 2016 FIRST Robotics Competition game for 2016. In this game, robots are used to cross “castle walls” – different obstacles outlining the “courtyard” – and score “boulders” into the castle towers at the opposite end of the field. This is played on a 27 ft. x 54 ft. field. Points are scored by crossing elements of the tower’s outer works, shooting boulders into the opposing tower’s five goals in order to lower the tower strength, and by surrounding and scaling the tower.
+
+This years game has a hidden meaning, it heavily promotes communication and working with constraints and obstacles. The drivers must communicate with their “spy” or exclusively drive through on-board cameras. This will challenge many people to work together between their own team members and with others.
+
+To find out more about this year’s game, watch the video below or go the official FIRST website.
+
+May your castles be strong!</a>.
+
+</p>
+            	
+            
+
+<div class="social">
+            	
+
+<ul class="social-icons">
+                	
+
+<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>
+                    
+
+<li><a href="#"><i class="font-icon-social-email"></i></a></li>
+                
+
+</ul>
+            
+
+</div>
+        
+
+</div>
+        
+
+<!-- End Profile -->
+        
+        
+
+<!-- Start Profile -->
+    	
+
+<div class="span4 profile">
+        	
+
+<div class="image-wrap">
+                
+
+<div class="hover-wrap">
+                    
+
+<span class="overlay-img"></span>
+                    
+
+<span class="overlay-text-thumb">First</span>
+                
+
+</div>
+                
+
+<img src="http://www.firstfusion364.com/wp-content/uploads/2013/01/first-logo-cropped-270x250.png"  alt="Joshua Insanus">
+          
+
+</div>
+            
+
+<h3 class="profile-name" style=text-align:center>FIRST: For Inspiration and Recognition of Science and Technology</h3>
+            
+
+<p class="profile-description"> <a href="#"></a>.
+
+Dean Kamen’s vision of FIRST is “to transform our culture by creating a world where science and technology are celebrated, and where young people dream of becoming science and technology heroes.”
+FIRST is an internationally acclaimed organization that hosts an annual competition which allows more than 200,000 high school students to compete against other teams on a global scale.
+
+However, unlike other competitions in which winning by any means is the only option, FIRST holds a standard of “gracious professionalism,” where teams share ideas, strategies and even help repair other teams’ robots.
+
+This emulates the respect and business ethics expected from corporations in the real world. In contrast to most athletic sports where the sport itself is the main focus, FIRST centers around influencing and affecting the community in the most positive ways it can (whether the “community” is a neighborhood or the world). “Coopertition” among students creates a willingness to embark on the hard, long journey of building and battling amongst groups of peers, all brought together by FIRST Robotics. “FIRST is the vehicle – students are the rocket fuel.”
+
+For more information regarding FIRST’s history, please visit the official FIRST website.</p>
+            	
+            
+
+<div class="social">
+            	
+
+<ul class="social-icons">
+                	
+
+<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>
+                    
+
+<li><a href="#"><i class="font-icon-social-linkedin"></i></a></li>
+                    
+
+<li><a href="#"><i class="font-icon-social-google-plus"></i></a></li>
+                    
+
+<li><a href="#"><i class="font-icon-social-vimeo"></i></a></li>
+                
+
+</ul>
+            
+
+</div>
+        
+
+</div>
+        
+
+<!-- End Profile -->
+        
+    
+
+</div>
+    
+
+<!-- End People -->
+
+</div>
+
+
+</div>
+
+
+<!-- End About Section -->
+
+
+
+<!-- Contact Section -->
+
+
+<div id="contact" class="page">
+<div class="container">
+    
+
+<!-- Title Page -->
+    
+
+<div class="row">
+        
+
+<div class="span12">
+            
+
+<div class="title-page">
+                
+
+<h2 class="title">Get in Touch</h2>
+                
+
+<h3 class="title-description">We’re currently accepting new client projects. We look forward to serving you.</h3>
+            
+
+</div>
+        
+
+</div>
+    
+
+</div>
+    
+
+<!-- End Title Page -->
+    
+    
+
+<!-- Contact Form -->
+    
+
+<div class="row">
+    	
+
+<div class="span9">
+        
+        	
+
+<form id="contact-form" class="contact-form" action="#">
+            	
+
+<p class="contact-name">
+            		
+
+<input id="contact_name" type="text" placeholder="Full Name" value="" name="name" />
+                
+
+</p>
+                
+
+<p class="contact-email">
+                	
+
+<input id="contact_email" type="text" placeholder="Email Address" value="" name="email" />
+                
+
+</p>
+                
+
+<p class="contact-message">
+                	
+
+<textarea id="contact_message" placeholder="Your Message" name="message" rows="15" cols="40"></textarea>
+                
+
+</p>
+                
+
+<p class="contact-submit">
+                	
+
+<a id="contact-submit" class="submit" href="#">Send Your Email</a>
+                
+
+</p>
+                
+                
+
+<div id="response">
+                
+                
+
+</div>
+            
+
+</form>
+         
+       
+
+</div>
+        
+        
+
+<div class="span3">
+        	
+
+<div class="contact-details">
+        		
+
+<h3>Contact Details</h3>
+                
+
+<ul>
+                    
+
+<li><a href="#">hello@brushed.com</a></li>
+                    
+
+<li>(916) 375-2525</li>
+                    
+
+<li>
+                        
+
+Brushed Studio
+                        
+
+<br>
+                        
+
+5240 Vanish Island. 105
+                        
+
+<br>
+                        
+
+Unknow
+                    
+
+</li>
+                
+
+</ul>
+            
+
+</div>
+       
+
+</div>
+    
+
+</div>
+    
+
+<!-- End Contact Form -->
+
+
+</div>
+
+
+</div>
+
+
+<!-- End Contact Section -->
+
+
+
+<!-- Twitter Feed -->
+
+
+<div id="twitter-feed" class="page-alternate">
+	
+
+<div class="container">
+    	
+
+<div class="row">
+            
+
+<div class="span12">
+                
+
+<div class="follow">
+                    
+
+<a href="https://twitter.com/Bluxart" title="Follow Me on Twitter" target="_blank"><i class="font-icon-social-twitter"></i></a>
+                
+
+</div>
+                    
+                
+
+<div id="ticker" class="query"> 
+                
+
+</div>
+            
+
+</div>
+        
+
+</div>
+    
+
+</div>
+
+
+</div>
+
+
+<!-- End Twitter Feed -->
+
+
+
+<!-- Socialize -->
+
+
+<div id="social-area" class="page">
+	
+
+<div class="container">
+    	
+
+<div class="row">
+            
+
+<div class="span12">
+                
+
+<nav id="social">
+                    
+
+<ul>
+                        
+
+<li><a href="https://twitter.com/Bluxart" title="Follow Me on Twitter" target="_blank"><span class="font-icon-social-twitter"></span></a></li>
+                        
+
+<li><a href="http://dribbble.com/Bluxart" title="Follow Me on Dribbble" target="_blank"><span class="font-icon-social-dribbble"></span></a></li>
+                        
+
+<li><a href="http://forrst.com/people/Bluxart" title="Follow Me on Forrst" target="_blank"><span class="font-icon-social-forrst"></span></a></li>
+                        
+
+<li><a href="http://www.behance.net/alessioatzeni" title="Follow Me on Behance" target="_blank"><span class="font-icon-social-behance"></span></a></li>
+                        
+
+<li><a href="https://www.facebook.com/Bluxart" title="Follow Me on Facebook" target="_blank"><span class="font-icon-social-facebook"></span></a></li>
+                        
+
+<li><a href="https://plus.google.com/105500420878314068694" title="Follow Me on Google Plus" target="_blank"><span class="font-icon-social-google-plus"></span></a></li>
+                        
+
+<li><a href="http://www.linkedin.com/in/alessioatzeni" title="Follow Me on LinkedIn" target="_blank"><span class="font-icon-social-linkedin"></span></a></li>
+                        
+
+<li><a href="http://themeforest.net/user/Bluxart" title="Follow Me on ThemeForest" target="_blank"><span class="font-icon-social-envato"></span></a></li>
+                        
+
+<li><a href="http://zerply.com/Bluxart/public" title="Follow Me on Zerply" target="_blank"><span class="font-icon-social-zerply"></span></a></li>
+                    
+
+</ul>
+                
+
+</nav>
+            
+
+</div>
+        
+
+</div>
+    
+
+</div>
+
+
+</div>
+
+
+<!-- End Socialize -->
+
+
+
+<!-- Footer -->
+
+
+<footer>
+	
+
+<p class="credits">&copy;2015 Team Fusion #364. <a href="http://themes.alessioatzeni.com/html/brushed/" title="Brushed | Responsive One Page Template">Brushed Template</a> by <a href="http://www.alessioatzeni.com/" title="Alessio Atzeni | Web Designer &amp; Front-end Developer">Alessio Atzeni</a></p>
+</footer>
+
+
+<!-- End Footer -->
+
+
+
+<!-- Back To Top -->
+
+
+<a id="back-to-top" href="#">
+<i class="font-icon-arrow-simple-up"></i>
+</a>
+
+
+<!-- End Back to Top -->
+
+
+
+<!-- Js -->
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
+
+<!-- jQuery Core -->
+
+
+<script src="_include/js/bootstrap.min.js"></script> 
+
+<!-- Bootstrap -->
+
+
+<script src="_include/js/supersized.3.2.7.min.js"></script> 
+
+<!-- Slider -->
+
+
+<script src="_include/js/waypoints.js"></script> 
+
+<!-- WayPoints -->
+
+
+<script src="_include/js/waypoints-sticky.js"></script> 
+
+<!-- Waypoints for Header -->
+
+
+<script src="_include/js/jquery.isotope.js">
+
+</script> 
+
+<!-- Isotope Filter -->
+
+
+<script src="_include/js/jquery.fancybox.pack.js"></script> 
+
+<!-- Fancybox -->
+
+
+<script src="_include/js/jquery.fancybox-media.js"></script> 
+
+<!-- Fancybox for Media -->
+
+
+<script src="_include/js/jquery.tweet.js"></script> 
+
+<!-- Tweet -->
+
+
+<script src="_include/js/plugins.js"></script> 
+
+<!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
+
+
+<script src="_include/js/main.js"></script> 
+
+<!-- Default JS -->
+
+
+<!-- End Js -->
+
+
+
+</body>
+
+
+</html>
