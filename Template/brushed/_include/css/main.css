@@ -371,11 +371,9 @@ h3.spec {
 
 #home-slider #nextslide,
 #home-slider #prevslide {
-	background-image: none;
 	background-color: #26292E;
 	display: inline-block;
 	margin: 0;
-	position: relative;
 	top: 0;
 	left: 0;
 	right: 0;
