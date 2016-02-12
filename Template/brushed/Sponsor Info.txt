@@ -1,0 +1,48 @@
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/02/nasa-300x258.jpg"
+
+sponsor site:"http://www.nasa.gov/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/11/AVL-Wealthcare-Logo-1.png"
+
+sponsor site:"http://www.avlwealthcare.com/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/03/Community_Bank_logo.jpg"
+
+sponsor site:"http://www.communitybank.net/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/02/Ingalls-shipbuilding-logo-300x124.jpg"
+
+sponsor site:"http://ingalls.huntingtoningalls.com/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2015/01/Mississippi.Color-Logo.jpg"
+
+sponsor site:"http://www.mississippipower.com/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/02/lockheed-martin-logo-300x85.jpg"
+
+sponsor site:"http://www.lockheedmartin.com/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/02/pepsi-logo-300x120.png"
+
+sponsor site:"http://www.pepsi.com/en-us/d/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/03/Rotary-Club.png"
+
+sponsor site:----
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2014/02/Seemann-Composites-logo-300x100.jpg"
+
+sponsor site:"http://www.seemanncomposites.com/"
+-----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2015/02/PTC-Logo.jpg" 
+
+sponsor site:"http://www.ptc.com/"
+----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2015/02/Solidworks-Logo.jpg"
+
+sponsor site:"http://www.solidworks.com/"
+----------------------------------------------------------------------------------
+Sponsor img:"http://www.firstfusion364.com/wp-content/uploads/2015/02/USMI-SEAL.jpg"
+
+sponsor site:"http://www.marines.com/"
+----------------------------------------------------------------------------------
