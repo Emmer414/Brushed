@@ -371,11 +371,9 @@ h3.spec {
 
 #home-slider #nextslide,
 #home-slider #prevslide {
-	background-image: none;
 	background-color: #26292E;
 	display: inline-block;
 	margin: 0;
-	position: relative;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -421,6 +419,7 @@ h3.spec {
 #home-slider #prevslide i {
 	margin-left: -9px;	
 }
+
 
 #home-slider ul#slide-list {
 	top: 50%;
