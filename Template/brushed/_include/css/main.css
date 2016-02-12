@@ -530,12 +530,11 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../Images/364 atom.jpg) no-repeat;
+	background: url(file:///C:/Users/clinton.brawley.WINDS.003/Documents/GitHub/Brushed/Template/brushed/Images/364%20atom.jpg) no-repeat;
 	width: 96px;
 	height: 30px;
-	text-indent: -9999px;
+	/*text-indent: -9999px;*/
 	display: block;
-	opacity: 1;
 	filter: alpha(opacity=100);
 	
 	-webkit-transition: opacity 0.25s ease-in-out 0s;	
