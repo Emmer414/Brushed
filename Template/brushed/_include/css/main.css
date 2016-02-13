@@ -999,7 +999,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit {
-    background: #3C3F45;
+    background: white;
     color: #23262C;
     cursor: pointer;
     display: inline-block;
@@ -1118,7 +1118,7 @@ nav#menu #menu-nav li a:hover {
 #social ul li a span {
 	display: inline-block;
 	margin: 0;
-	color: #55606a;
+	color: #FFFFFF;
 	font-size: 32px;
 	line-height: 70px;
 	
