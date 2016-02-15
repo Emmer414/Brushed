@@ -1,4 +1,5 @@
 /*
+/*
 Theme Name: Brushed 
 Theme URI: http://www.themes.alessioatzeni.com/html/brushed/
 Author: Alessio Atzeni
@@ -656,7 +657,7 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .page {
-	background: #000000;
+	background: #3c3f45;
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
@@ -669,6 +670,12 @@ nav#menu #menu-nav li a:hover {
 	z-index: 99;
 }
 
+.page-textured1{
+	background: url(http://www.fire4hiresound.com/wp-content/uploads/2013/01/webs-black-smoke-image.jpg);
+	padding: 100px 0;
+	position: relative;
+	z-index: 99;
+}
 .title-page {
 	text-align: center;
 	margin-bottom: 100px;	
@@ -999,7 +1006,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit {
-    background: #3C3F45;
+    background: white;
     color: #23262C;
     cursor: pointer;
     display: inline-block;
@@ -1118,7 +1125,7 @@ nav#menu #menu-nav li a:hover {
 #social ul li a span {
 	display: inline-block;
 	margin: 0;
-	color: #55606a;
+	color: #FFFFFF;
 	font-size: 32px;
 	line-height: 70px;
 	
@@ -1420,10 +1427,7 @@ footer .credits {
           transition: none;
 }
 
-#Zomboy{
 
-	background-color: black;
-}
 
 #Robit{
 	border: none;
@@ -1434,3 +1438,6 @@ footer .credits {
 	width: 300px;
 }
 
+#Ghost{
+	opacity: 0;
+}

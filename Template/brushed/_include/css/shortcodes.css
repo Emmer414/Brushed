@@ -109,7 +109,7 @@
 
 .accordion-heading:hover .accordion-toggle,
 .accordion-heading:hover .accordion-toggle.inactive {
-	background:#3C3F45;
+	background:#FF6900;
 	color:#FFFFFF;
 }
 
@@ -119,7 +119,7 @@
 }
 
 .accordion-heading .accordion-toggle.inactive {
-	background:#3C3F45;
+	background:#23262C;
 	
 }
 
