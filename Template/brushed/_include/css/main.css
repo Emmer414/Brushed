@@ -64,8 +64,6 @@ a > img {
 img {
 	max-width: 100%;	
 }
-
-strong {
   	font-weight: 500;
 }
 
@@ -1431,6 +1429,7 @@ footer .credits {
 
 #Robit{
 	border: none;
+	width: 100%;
 }
 
 #Vader{
