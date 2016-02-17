@@ -749,7 +749,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .item-thumbs a + img {
-	width: 100%;	
+	width: 200px;	
 }
 
 .item-thumbs .hover-wrap {
@@ -787,8 +787,8 @@ nav#menu #menu-nav li a:hover {
 
 .item-thumbs .hover-wrap .overlay-img {
 	position: absolute;
-	width: 100%;
-	height: 100%;
+	width: 200px;
+	height: 200px;
 	background: #FF6900;
 	font-size: 25px;
 	opacity: 0.80;
@@ -1443,6 +1443,6 @@ footer .credits {
 }
 
 .resize{
-	height: 166px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 }
