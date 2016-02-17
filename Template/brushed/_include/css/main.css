@@ -793,6 +793,7 @@ nav#menu #menu-nav li a:hover {
 	font-size: 25px;
 	opacity: 0.80;
 	filter: alpha(opacity=80);
+	font-family: Verdana;
 }
 
 .item-thumbs .hover-wrap .overlay-img-thumb {
@@ -1439,4 +1440,9 @@ footer .credits {
 
 #Ghost{
 	opacity: 0;
+}
+
+.resize{
+	height: 166px;
+	width: 300px;
 }
