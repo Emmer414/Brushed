@@ -1447,3 +1447,112 @@ footer .credits {
 	height: 166px;
 	width: 300px;
 }
+
+/*CSS slider*/
+
+*, *:after, *:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#sliderWrapp {
+	text-align: center;
+	background: #fff;
+	padding: 30px 10px;
+	border-bottom: 1px solid #DDE0E7;
+}
+#sliderWrapp > div {
+	margin: 0 auto;
+}
+.instuction {
+	font-family: sans-serif, Arial;
+	display: block;
+	margin: 0 auto;
+	max-width: 1680px;
+	width: 100%;
+	color: #00008B;
+	padding: 0 10px;
+	text-align: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.instuction h1 img {
+
+	vertical-align: middle;
+	margin-bottom: 10px;
+}
+.instuction h1 {
+	font-weight: normal;
+	color: #00008B;
+	text-align: center;
+}
+.instuction h2 {
+	position: relative;
+	font-weight: normal;
+	font-size: 1.4em;
+	margin-bottom: 20px;
+	margin-top: 0;
+	padding-left: 50px;
+}
+.instuction h2 .num {
+	position: absolute;
+	font-style: italic;
+	font-size: 1.3em;
+	left: -8px;
+	top: -12px;
+
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	background: #CBECFD;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50%;
+}
+.instuction .mono {
+	color: #000;
+	font-family: monospace;
+	font-size: 1.3em;
+	font-weight: normal;
+}
+.instuction li.mono {
+	font-size: 1.5em;
+}
+
+.instuction ul {
+	font-size: 0.9em;
+	margin-top: 0;
+	padding-left: 0;
+	list-style: none;
+}
+.instuction .note {
+	color: #A3A3B2;
+	font-style: italic;
+	padding-top: 10px;
+}
+.instuction p.note {
+	text-align: center;
+	padding-top: 0;
+	margin-top: 4px;
+}
+.instuction textarea {
+	font-size: 0.9em;
+	min-height: 60px;
+	padding: 10px;
+	margin: 0;
+	overflow: auto;
+	max-width: 100%;
+	width: 100%;
+}
+.instuction a,
+.instuction a:visited {
+	color: #2196F3;
+}
+
+.instuction .card {
+	padding: 25px;
+	margin-bottom: 20px;
+	background: #FF6900;
+	border: 1px solid #DDE0E7;
+}
