@@ -620,7 +620,8 @@ small{
 }
 
 strong{
-	font-weight:bold
+	font-weight:bold;
+	font-family: "Titillium Web", sans-serif;
 }
 
 em{
