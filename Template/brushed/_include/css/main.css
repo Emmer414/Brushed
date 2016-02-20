@@ -668,6 +668,7 @@ nav#menu #menu-nav li a:hover {
 	z-index: 99;
 }
 
+
 .page-textured1{
 	background: url(http://www.fire4hiresound.com/wp-content/uploads/2013/01/webs-black-smoke-image.jpg);
 	padding: 100px 0;
@@ -1448,20 +1449,24 @@ footer .credits {
 }
 
 .infoBubble{
-	width: 100%;
+	position: relative;
+	left: 1em;
+	width: 55em;
 	height: 10em;
 	padding-bottom: 50px;
 	color: white;
-	background-color: #00008b;
 	border-radius: 5px;
 	display: inline-block;
 	margin-bottom: 1em;
-	margin-top: -10em;
+	margin-top: -5em;
+	z-index: 1
 }
 
 .infoBubble2{
-	width: 100%;
-	height: 7em;
+	position: relative;
+	left: 10em;
+	width: 40em;
+	height: 1em;
 	padding-bottom: 50px;
 	padding-top: 50px;
 	color: white;
@@ -1471,11 +1476,35 @@ footer .credits {
 	margin-bottom: 1em;
 	margin-top: 1em;
 }
+
+.textBox1{
+	position: relative;
+	height: 8em;
+	width: 40em;
+	text-align: center;
+	opacity: 1;
+}
+
 .textBox2{
 	position: relative;
-	top: 1em;
-	left: 1em;
 	height: 8em;
 	width: 58em;
 	text-align: center;
+	opacity: 1;
+}
+
+.parentLink{
+	color: #00008b;
+	font-family: Franklin Gothic;
+}
+
+.Background{
+	position: relative;
+	left: -2.5em;
+	height: 126em;
+	width: 63em;
+	background-color: #151515;
+	color: white;
+	display: block;
+	margin-bottom: 10em;
 }
