@@ -1508,3 +1508,13 @@ footer .credits {
 	display: block;
 	margin-bottom: 10em;
 }
+
+#fusionLogoParentCenter{
+	position: relative;
+	top: -2em;
+	left: 24.5em;
+	width: 191px;
+	height: 97px;
+	border: solid black 3px;
+	
+}
