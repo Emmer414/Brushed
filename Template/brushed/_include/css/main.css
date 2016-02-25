@@ -653,7 +653,12 @@ nav#menu #menu-nav li a:hover {
 /* ==================================================
    Section Page
 ================================================== */
-
+.page-2 {
+	background: #00008B;
+	padding: 100px 0;
+	position: relative;
+	z-index: 99;
+}
 .page {
 	background: #3c3f45;
 	padding: 100px 0;
