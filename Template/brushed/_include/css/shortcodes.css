@@ -317,9 +317,10 @@
 }
 
 .nav-tabs > li > a {
-	background: #3C3F45;
+	background: #fff;
 	padding:15px;
   	line-height: 20px;
+	width: 37px;
 }
 
 .nav-tabs > .active > a,
