@@ -756,7 +756,7 @@ nav#menu #menu-nav li a:hover {
 
 .item-thumbs a + img {
 	width: 100%;
-	height:relative;
+	height:270px;
 }
 
 .item-thumbs .hover-wrap {

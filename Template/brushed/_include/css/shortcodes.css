@@ -320,7 +320,7 @@
 	background: #fff;
 	padding:15px;
   	line-height: 20px;
-	width: 37px;
+	width: 1.82em;
 }
 
 .nav-tabs > .active > a,
@@ -616,4 +616,9 @@ blockquote small:before {
 		-ms-transform: rotateY(180deg);
 		 -o-transform: rotateY(180deg);
 			transform: rotateY(180deg);
+}
+
+.container2{
+	display: flex;
+	justify-content: space-between;
 }
